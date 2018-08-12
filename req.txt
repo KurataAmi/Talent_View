@@ -1,7 +1,0 @@
-Django
-
-django-crispy-forms
-
-django-filter
-
-django-pure-pagination
